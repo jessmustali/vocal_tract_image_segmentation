@@ -34,4 +34,7 @@ In conclusion, our model demonstrated satisfactory segmentation with good visual
 
 Potential future improvements include exploring additional loss functions, increasing the number of samples, and continuous refinement of postprocessing techniques.
 
+Special thanks to [Dataset Source](https://drive.google.com/drive/folders/1kWbGhzMr72US_Iiil-zFYJ8LjL9eboor?usp=share_link) for providing the dataset used in this project.
+
+
  
