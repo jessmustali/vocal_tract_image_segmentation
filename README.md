@@ -6,7 +6,7 @@ The purpose of this project is to develop an automatic image-segmentation method
 
 ## Dataset
 
-We were provided with a dataset of 820 real-time MRI images along with their respective labels. The dataset was split into 80% for training and 10% each for validation and testing. Salt and pepper noise was removed using a median filter.
+We were provided with a [Dataset](https://drive.google.com/drive/folders/1kWbGhzMr72US_Iiil-zFYJ8LjL9eboor?usp=share_link) of 820 real-time MRI images along with their respective labels. The dataset was split into 80% for training and 10% each for validation and testing. Salt and pepper noise was removed using a median filter.
 
 ## Model Architecture
 
@@ -34,7 +34,3 @@ In conclusion, our model demonstrated satisfactory segmentation with good visual
 
 Potential future improvements include exploring additional loss functions, increasing the number of samples, and continuous refinement of postprocessing techniques.
 
-Special thanks to [Dataset Source](https://drive.google.com/drive/folders/1kWbGhzMr72US_Iiil-zFYJ8LjL9eboor?usp=share_link) for providing the dataset used in this project.
-
-
- 
