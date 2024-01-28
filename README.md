@@ -10,7 +10,7 @@ We were provided with a [Dataset](https://drive.google.com/drive/folders/1OK4fb9
 
 ## Model Architecture
 
-The U-Net architecture, as used by Ruthven in their research, was chosen. It consists of 5 encoding layers and 5 decoding layers. Gridsearch was performed for hyperparameter optimization, exploring dropout rate, batch size, loss function, and type of pooling.
+The U-Net architecture, as used by [Ruthven](https://www.sciencedirect.com/science/article/pii/S0169260720316473) in their research, was chosen. It consists of 5 encoding layers and 5 decoding layers. Gridsearch was performed for hyperparameter optimization, exploring dropout rate, batch size, loss function, and type of pooling.
 
 ## Training and Evaluation
 
